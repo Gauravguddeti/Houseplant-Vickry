@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Houseplant-Vickry/static/css/main.25b42f15.css",
-    "main.js": "/Houseplant-Vickry/static/js/main.c8773a3e.js",
+    "main.css": "/Houseplant-Vickry/static/css/main.6e4bbd28.css",
+    "main.js": "/Houseplant-Vickry/static/js/main.71fd179e.js",
     "static/js/453.29d0deba.chunk.js": "/Houseplant-Vickry/static/js/453.29d0deba.chunk.js",
     "index.html": "/Houseplant-Vickry/index.html",
-    "main.25b42f15.css.map": "/Houseplant-Vickry/static/css/main.25b42f15.css.map",
-    "main.c8773a3e.js.map": "/Houseplant-Vickry/static/js/main.c8773a3e.js.map",
+    "main.6e4bbd28.css.map": "/Houseplant-Vickry/static/css/main.6e4bbd28.css.map",
+    "main.71fd179e.js.map": "/Houseplant-Vickry/static/js/main.71fd179e.js.map",
     "453.29d0deba.chunk.js.map": "/Houseplant-Vickry/static/js/453.29d0deba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25b42f15.css",
-    "static/js/main.c8773a3e.js"
+    "static/css/main.6e4bbd28.css",
+    "static/js/main.71fd179e.js"
   ]
 }
