@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/Houseplant-Vickry">
         <div className="App">
           <Header />
           <main>
