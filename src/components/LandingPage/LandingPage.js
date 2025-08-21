@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import './LandingPage.css';
 
 const LandingPage = () => {
+  console.log('LandingPage component is rendering');
+  
   return (
     <div className="landing-page">
       <div className="hero-section">
