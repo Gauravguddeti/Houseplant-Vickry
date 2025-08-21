@@ -9,9 +9,6 @@ import ShoppingCart from './components/ShoppingCart/ShoppingCart';
 import './App.css';
 
 function App() {
-  console.log('App component is rendering');
-  console.log('Current location:', window.location.href);
-  
   return (
     <Provider store={store}>
       <Router>

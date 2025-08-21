@@ -2,7 +2,7 @@
   "name": "houseplant-vickry",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gauravguddeti.github.io/Houseplant-Vickry",
+  "description": "React e-commerce app for houseplants with Redux cart, responsive design, and GitHub Pages deployment",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "cra-template-redux": "2.0.0",
